@@ -154,31 +154,6 @@ npm run seed
    - Add route in App.tsx
    - Update navigation if needed
 
-## 🔧 Configuration
-
-### Environment Variables
-
-Create a `.env` file in the root directory:
-
-```env
-NODE_ENV=development
-ELECTRON_IS_DEV=1
-
-# Email Configuration (optional)
-EMAIL_HOST=smtp.gmail.com
-EMAIL_PORT=587
-EMAIL_USER=your-email@gmail.com
-EMAIL_PASS=your-password
-
-# Twilio Configuration (optional)
-TWILIO_ACCOUNT_SID=your_account_sid
-TWILIO_AUTH_TOKEN=your_auth_token
-TWILIO_PHONE_NUMBER=+1234567890
-
-# Application Settings
-MAX_FILE_SIZE=10485760  # 10MB
-SESSION_TIMEOUT=3600    # 1 hour
-```
 
 ### Database Configuration
 
@@ -263,28 +238,6 @@ Key settings in `package.json`:
 - **Windows**: `%APPDATA%\HR Booking Management\logs\`
 - **macOS**: `~/Library/Logs/HR Booking Management/`
 - **Linux**: `~/.config/HR Booking Management/logs/`
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-### Development Guidelines
-
-- Follow existing code style and structure
-- Write meaningful commit messages
-- Update documentation for new features
-- Add tests for new functionality
-- Ensure backward compatibility
-
-## 📄 License
-
-This project is proprietary software. All rights reserved.
-
-Copyright © 2024 CyberArcenal. Unauthorized copying, distribution, or modification is prohibited.
 
 ## 📞 Support
 
