@@ -39,6 +39,13 @@ A professional desktop application for managing HR bookings, appointments, emplo
 - **Backup & Recovery** - Automated database backups and restoration
 - **Migration Manager** - Safe database schema updates without data loss
 
+## 📸 Screenshots
+Here are sample displays of the system (replace the links with your own):
+
+![Screenshot 1](https://github.com/CyberArcenal/Hr-Booking-Management/blob/main/Images/img3.png?raw=true)
+![Screenshot 2](https://github.com/CyberArcenal/Hr-Booking-Management/blob/main/Images/img2.png?raw=true)
+![Screenshot 3](https://github.com/CyberArcenal/Hr-Booking-Management/blob/main/Images/img1.png?raw=true)
+
 ## 🚀 Quick Start
 
 ### Prerequisites
@@ -50,8 +57,8 @@ A professional desktop application for managing HR bookings, appointments, emplo
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/CyberArcenal/hrbooking-management.git
-   cd hrbooking-management
+   git clone https://github.com/CyberArcenal/Hr-Booking-Management.git
+   cd Hr-Booking-Management
    ```
 
 2. **Install dependencies**
