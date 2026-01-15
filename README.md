@@ -40,7 +40,7 @@ A professional desktop application for managing HR bookings, appointments, emplo
 - **Migration Manager** - Safe database schema updates without data loss
 
 ## 📸 Screenshots
-Here are sample displays of the system (replace the links with your own):
+Here are sample displays of the system
 
 ![Screenshot 3](https://github.com/CyberArcenal/HR-Booking-Management/blob/main/images/img3.png?raw=true)
 ![Screenshot 2](https://github.com/CyberArcenal/HR-Booking-Management/blob/main/images/img2.png?raw=true)
