@@ -42,9 +42,9 @@ A professional desktop application for managing HR bookings, appointments, emplo
 ## 📸 Screenshots
 Here are sample displays of the system (replace the links with your own):
 
-![Screenshot 1](https://github.com/CyberArcenal/HR-Booking-Management/blob/main/Images/img3.png?raw=true)
-![Screenshot 2](https://github.com/CyberArcenal/HR-Booking-Management/blob/main/Images/img2.png?raw=true)
-![Screenshot 3](https://github.com/CyberArcenal/HR-Booking-Management/blob/main/Images/img1.png?raw=true)
+![Screenshot 3](https://github.com/CyberArcenal/HR-Booking-Management/blob/main/images/img3.png?raw=true)
+![Screenshot 2](https://github.com/CyberArcenal/HR-Booking-Management/blob/main/images/img2.png?raw=true)
+![Screenshot 1](https://github.com/CyberArcenal/HR-Booking-Management/blob/main/images/img1.png?raw=true)
 
 ## 🚀 Quick Start
 
